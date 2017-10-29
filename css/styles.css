@@ -1,0 +1,52 @@
+h1 {
+  color: Blue;
+  font-family: Frijole;
+  font-size: 60px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.main .container {
+  background-color: #9999ff;
+  margin-top: 30px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  width: 65%;
+}
+
+.commentsList .container {
+  background-color: #47d147;
+  margin-top: 30px;
+  padding-bottom: 20px;
+  width: 65%;
+}
+
+.suggestionList .title {
+  color: white;
+  font-family: "Maven Pro";
+  font-size: 40px;
+}
+
+.commentsList .title {
+  color: white;
+  font-family: "Maven Pro";
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+.singleComment {
+  color: Yellow;
+  font-family: "Times New Roman";
+  font-size: 30px;
+}
+.upvotes {
+  color: Black;
+  font-size: 15px;
+}
+
+.glyphicon {
+  background-color: Red;
+}
